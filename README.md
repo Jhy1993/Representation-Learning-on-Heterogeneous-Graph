@@ -38,7 +38,7 @@ Contributed by Houye Ji.
 4. Zemin Liu, Vicent W. Zheng, Zhou Zhao, Zhao Li, Hongxia Yang, Minghui Wu, Jing Ying.  **Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.** KDD 2018
 5. Chuan Shi, Binbin Hu, Wayne Xin Zhao, Philip S. Yu. **Heterogeneous Information Network Embedding for Recommendation.** IEEE Transactions on Knowledge and Data Engineering, 2018. [paper](http://shichuan.org/doc/48.pdf)
 6. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Philip S. Yu. **Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model.** KDD 2018. [paper](http://shichuan.org/doc/47.pdf)
-7. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Tianchi Yang. **Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network.** CIKM 2018. [paper](http://shichuan.org/doc/61.pdf）
+7. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Tianchi Yang. **Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network.** CIKM 2018. [paper](http://shichuan.org/doc/61.pdf) 
 8. Xiaotian Han, Chuan Shi, Senzhang Wang, Philip S. Yu, Li Song. **Aspect-Level Deep Collaborative Filtering via Heterogeneous Information Networks.** IJCAI 2018. [paper](http://shichuan.org/doc/46.pdf)
 9. Zemin Liu, Vicent W. Zheng, Zhou Zhao, Hongxia Yang, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying. **SPE_Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network.** WWW 2018.
 
