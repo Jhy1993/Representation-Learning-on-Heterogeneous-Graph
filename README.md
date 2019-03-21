@@ -21,4 +21,4 @@ s
 
 # Heterogeneous Graph Neural Network
 
-s
+1. **Heterogeneous Graph Attention Network.** WWW 2019. [paper](https://github.com/Jhy1993/HAN)
