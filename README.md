@@ -11,7 +11,7 @@ tags:
 
 ---
 
-Representation Learning on Heterogeneous Graph
+Representation Learning on Heterogeneous Graph including **Heterogeneous Graph Embedding**, **Heterogeneous Graph Neural Network** and **Applications**.
 
 Contributed by Houye Ji.
 
