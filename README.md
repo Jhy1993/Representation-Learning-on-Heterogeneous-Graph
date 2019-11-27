@@ -15,6 +15,10 @@ Representation Learning on Heterogeneous Graph including **Heterogeneous Graph E
 
 Contributed by Houye Ji.
 
+# Tutorials for Heterogeneous Graph
+CIKM 2019 Recent Developments of Deep HIN Analysis
+
+
 # Heterogeneous Graph Embedding
 
 1. Yu He, Yangqiu Song, Jianxin Li, Cheng Ji, Jian Peng, Hao Peng. **HeteSpaceyWalk: A Heterogeneous Spacey Random Walk for Heterogeneous Information Network Embedding** CIKM 2019
