@@ -45,36 +45,56 @@ CIKM 2019 Recent Developments of Deep HIN Analysis
 
 # Heterogeneous Graph Neural Network
 
-1.  Shaohua Fan, Junxiong Zhu, Xiaotian Han, Chuan Shi, Linmei Hu, Biyu Ma, Yongliang Li. **Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation.** KDD 2019. [paper](https://dl.acm.org/citation.cfm?id=3330673)
-2.  Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla. **Heterogeneous Graph Neural Network.** KDD 2019
-3.  Hao Peng, Jianxin Li, Qiran Gong, Yangqiu Song, Yuanxing Ning, Kunfeng Lai  and Philip S. Yu **Fine-grained Event Categorization with Heterogeneous Graph Convolutional.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.04580)
-4.  Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, Philip S. Yu, Yanfang Ye.**Heterogeneous Graph Attention Network.** WWW 2019. [paper](https://github.com/Jhy1993/HAN)
-5.  Yizhou Zhang, Yun Xiong, Xiangnan Kong, Shanshan Li, Jinhong Mi, Yangyong Zhu. **Deep Collective Classification in Heterogeneous Information Networks.** WWW 2018. [paper](https://dl.acm.org/citation.cfm?id=3186106)
-6.  Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, Le Song. **Heterogeneous Graph Neural Networks for Malicious Account Detection.** CIKM 2018.   [paper](https://dl.acm.org/citation.cfm?id=3272010)
-7.  Marinka Zitnik, Monica Agrawal, Jure Leskovec. **Modeling polypharmacy side effects with graph convolutional networks** ISMB 2018 [paper](https://arxiv.org/abs/1802.00543 )
+1. Ziniu Hu, Yuxiao Dong, Kuansan Wang, Yizhou Sun. **Heterogeneous Graph Transformer.** WWW 2020
 
-# Heterogeneous Graph Embedding based Application
+2. Yuxiang Ren and Bo Liu and Chao Huang and Peng Dai and Liefeng Bo and Jiawei Zhang. **Heterogeneous Deep Graph Infomax.** AAAI 2020
 
-1. Yuyan Zheng, Chuan Shi, Xiangnan Kong, Yanfang Ye.**Author Set Identification via Quasi-Clique Discovery.** CIKM 2019 [paper](http://shichuan.org/doc/72.pdf)
-2. Yongji Wu, Defu Lian, Shuowei Jin and Enhong Chen. **Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference** IJCAI 2019
-3. Yanfang Ye, Shifu Hou, Lingwei Chen, Jingwei Lei, Wenqiang Wan, Jiabin Wang, Qi Xiong, and Fudong Shao .**Out-of-sample Node Representation Learning for Heterogeneous Graph in**
+3. Xingyu Fu, Jiani Zhang, Ziqiao Meng, Irwin King. **Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding.** WWW2020
+
+4. Seongjun Yun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, Hyunwoo J. Kim. **Graph Transformer Networks.** NIPS 2019
+
+5. Yuxin Xiao, Zecheng
+
+   Zhang, Carl Yang, and Chengxiang Zhai. **Non-local Attention Learning on Large Heterogeneous Information Networks** IEEE Big Data 2019.
+
+6. Shaohua Fan, Junxiong Zhu, Xiaotian Han, Chuan Shi, Linmei Hu, Biyu Ma, Yongliang Li. **Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation.** KDD 2019. [paper](https://dl.acm.org/citation.cfm?id=3330673)
+
+7. Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla. **Heterogeneous Graph Neural Network.** KDD 2019
+
+8. Hao Peng, Jianxin Li, Qiran Gong, Yangqiu Song, Yuanxing Ning, Kunfeng Lai  and Philip S. Yu **Fine-grained Event Categorization with Heterogeneous Graph Convolutional.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.04580)
+
+9. Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, Philip S. Yu, Yanfang Ye.**Heterogeneous Graph Attention Network.** WWW 2019. [paper](https://github.com/Jhy1993/HAN)
+
+10. Yizhou Zhang, Yun Xiong, Xiangnan Kong, Shanshan Li, Jinhong Mi, Yangyong Zhu. **Deep Collective Classification in Heterogeneous Information Networks.** WWW 2018. [paper](https://dl.acm.org/citation.cfm?id=3186106)
+
+11. Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, Le Song. **Heterogeneous Graph Neural Networks for Malicious Account Detection.** CIKM 2018.   [paper](https://dl.acm.org/citation.cfm?id=3272010)
+
+12. Marinka Zitnik, Monica Agrawal, Jure Leskovec. **Modeling polypharmacy side effects with graph convolutional networks** ISMB 2018 [paper](https://arxiv.org/abs/1802.00543 )
+
+#  Application
+
+1. Fengli Xu, Jianxun Lian, Zhenyu Han, Yong Li, Yujian Xu, Xing Xie. Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation. CIKM 2019
+2. Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li. **Spam Review Detection with Graph Convolutional Networks.** CIKM 2019
+3. Yuyan Zheng, Chuan Shi, Xiangnan Kong, Yanfang Ye.**Author Set Identification via Quasi-Clique Discovery.** CIKM 2019 [paper](http://shichuan.org/doc/72.pdf)
+4. Yongji Wu, Defu Lian, Shuowei Jin and Enhong Chen. **Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference** IJCAI 2019
+5. Yanfang Ye, Shifu Hou, Lingwei Chen, Jingwei Lei, Wenqiang Wan, Jiabin Wang, Qi Xiong, and Fudong Shao .**Out-of-sample Node Representation Learning for Heterogeneous Graph in**
    **Real-time Android Malware Detection** IJCAI 2019
-4. Weijian Chen, Yulong Gu, Zhaochun Ren , Xiangnan He, Hongtao Xie, Tong Guo, Dawei Yin and Yongdong Zhang.**Semi-supervised User Profiling with Heterogeneous Graph Attention Networks** IJCAI 2019
-5. Yanan Xu, Yanmin Zhu, Yanyan Shen and Jiadi Yu. **Learning Shared Vertex Representation in Heterogeneous Graphs with**
+6. Weijian Chen, Yulong Gu, Zhaochun Ren , Xiangnan He, Hongtao Xie, Tong Guo, Dawei Yin and Yongdong Zhang.**Semi-supervised User Profiling with Heterogeneous Graph Attention Networks** IJCAI 2019
+7. Yanan Xu, Yanmin Zhu, Yanyan Shen and Jiadi Yu. **Learning Shared Vertex Representation in Heterogeneous Graphs with**
    **Convolutional Networks for Recommendation** IJCAI 2019
-6. Shen Wang,  Zhengzhang Chen 2, Xiao Yu, Ding Li, Jingchao Ni, Lu-An Tang, Jiaping Gui, Zhichun Li, Haifeng Chen, Philip S. Yu. **Heterogeneous Graph Matching Networks for Unknown Malware Detection** IJCAI 2019
-7. Linmei Hu, Tianchi Yang, Chuan Shi, Houye Ji, Xiaoli Li.**Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification.** EMNLP 2019. [paper](http://shichuan.org/doc/73.pdf)
-8. Chuan Shi, Xiaotian Han, Li Song, Xiao Wang, Senzhang Wang, Junping Du, Philip S. Yu.**Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks.** TKDE 2019. [paper](http://shichuan.org/doc/75.pdf)
-9. Yiming Zhang, Yujie Fan, Wei Song, Shifu Hou, Yanfang Ye, Xin Li, Liang Zhao, Chuan Shi, Jiabin Wang, Qi Xiong.**Your Style Your Identity: Leveraging Writing and Photography Styles for Drug Trafficker Identification in Darknet Markets over Attributed Heterogeneous Information Network.** WWW 2019 [paper](http://shichuan.org/doc/69.pdf)
-10. Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi. **Cash-out User Detection based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism.** AAAI 2019. [paper](http://shichuan.org/doc/64.pdf)
-11. Shaohua Fan, Chuan Shi, Xiao Wang. **Abnormal Event Detection via Heterogeneous Information Network Embedding.** CIKM 2018. [paper](http://shichuan.org/doc/62.pdf)
-12. Yujie Fan, Shifu Hou, Yiming Zhang, Yanfang Ye, Melih Abdulhayoglu **Gotcha - Sly Malware! Scorpion: A Metagraph2vec Based Malware Detection System.** KDD 2018.
-13. Zemin Liu, Vicent W. Zheng, Zhou Zhao, Zhao Li, Hongxia Yang, Minghui Wu, Jing Ying.  **Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.** KDD 2018
-14. Vincent W. ZHENG, Mo SHA Yuchen LI, Hongxia YANG, Zhenjie ZHANG, Kian-Lee TAN. **Heterogeneous embedding propagation for large-scale e-commerce user alignment** ICDM 2018. [paper](https://ink.library.smu.edu.sg/sis_research/4217/ ) 
-15. Chuan Shi, Binbin Hu, Wayne Xin Zhao, Philip S. Yu. **Heterogeneous Information Network Embedding for Recommendation.** IEEE Transactions on Knowledge and Data Engineering, 2018. [paper](http://shichuan.org/doc/48.pdf)
-16. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Philip S. Yu. **Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model.** KDD 2018. [paper](http://shichuan.org/doc/47.pdf)
-17. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Tianchi Yang. **Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network.** CIKM 2018. [paper](http://shichuan.org/doc/61.pdf) 
-18. Xiaotian Han, Chuan Shi, Senzhang Wang, Philip S. Yu, Li Song. **Aspect-Level Deep Collaborative Filtering via Heterogeneous Information Networks.** IJCAI 2018. [paper](http://shichuan.org/doc/46.pdf)
-19. Zemin Liu, Vicent W. Zheng, Zhou Zhao, Hongxia Yang, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying. **SPE_Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network.** WWW 2018.
-20. Zemin Liu, Vincent W. Zheng, Zhou Zhao, Fanwei Zhu, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying. **Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs.** AAAI 2018 
-21. Ting Chen, Yizhou Sun. **Task-Guided and Path-Augmented Heterogeneous Network Embedding for Author Identification**  WSDM 2017. [paper](https://arxiv.org/pdf/1612.02814.pdf) 
+8. Shen Wang,  Zhengzhang Chen 2, Xiao Yu, Ding Li, Jingchao Ni, Lu-An Tang, Jiaping Gui, Zhichun Li, Haifeng Chen, Philip S. Yu. **Heterogeneous Graph Matching Networks for Unknown Malware Detection** IJCAI 2019
+9. Linmei Hu, Tianchi Yang, Chuan Shi, Houye Ji, Xiaoli Li.**Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification.** EMNLP 2019. [paper](http://shichuan.org/doc/73.pdf)
+10. Chuan Shi, Xiaotian Han, Li Song, Xiao Wang, Senzhang Wang, Junping Du, Philip S. Yu.**Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks.** TKDE 2019. [paper](http://shichuan.org/doc/75.pdf)
+11. Yiming Zhang, Yujie Fan, Wei Song, Shifu Hou, Yanfang Ye, Xin Li, Liang Zhao, Chuan Shi, Jiabin Wang, Qi Xiong.**Your Style Your Identity: Leveraging Writing and Photography Styles for Drug Trafficker Identification in Darknet Markets over Attributed Heterogeneous Information Network.** WWW 2019 [paper](http://shichuan.org/doc/69.pdf)
+12. Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi. **Cash-out User Detection based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism.** AAAI 2019. [paper](http://shichuan.org/doc/64.pdf)
+13. Shaohua Fan, Chuan Shi, Xiao Wang. **Abnormal Event Detection via Heterogeneous Information Network Embedding.** CIKM 2018. [paper](http://shichuan.org/doc/62.pdf)
+14. Yujie Fan, Shifu Hou, Yiming Zhang, Yanfang Ye, Melih Abdulhayoglu **Gotcha - Sly Malware! Scorpion: A Metagraph2vec Based Malware Detection System.** KDD 2018.
+15. Zemin Liu, Vicent W. Zheng, Zhou Zhao, Zhao Li, Hongxia Yang, Minghui Wu, Jing Ying.  **Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.** KDD 2018
+16. Vincent W. ZHENG, Mo SHA Yuchen LI, Hongxia YANG, Zhenjie ZHANG, Kian-Lee TAN. **Heterogeneous embedding propagation for large-scale e-commerce user alignment** ICDM 2018. [paper](https://ink.library.smu.edu.sg/sis_research/4217/ ) 
+17. Chuan Shi, Binbin Hu, Wayne Xin Zhao, Philip S. Yu. **Heterogeneous Information Network Embedding for Recommendation.** IEEE Transactions on Knowledge and Data Engineering, 2018. [paper](http://shichuan.org/doc/48.pdf)
+18. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Philip S. Yu. **Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model.** KDD 2018. [paper](http://shichuan.org/doc/47.pdf)
+19. Binbin Hu, Chuan Shi, Wayne Xin Zhao, Tianchi Yang. **Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network.** CIKM 2018. [paper](http://shichuan.org/doc/61.pdf) 
+20. Xiaotian Han, Chuan Shi, Senzhang Wang, Philip S. Yu, Li Song. **Aspect-Level Deep Collaborative Filtering via Heterogeneous Information Networks.** IJCAI 2018. [paper](http://shichuan.org/doc/46.pdf)
+21. Zemin Liu, Vicent W. Zheng, Zhou Zhao, Hongxia Yang, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying. **SPE_Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network.** WWW 2018.
+22. Zemin Liu, Vincent W. Zheng, Zhou Zhao, Fanwei Zhu, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying. **Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs.** AAAI 2018 
+23. Ting Chen, Yizhou Sun. **Task-Guided and Path-Augmented Heterogeneous Network Embedding for Author Identification**  WSDM 2017. [paper](https://arxiv.org/pdf/1612.02814.pdf) 
